@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400">
+  <rect width="800" height="400" fill="#0a0a0f"/>
+  <circle cx="400" cy="160" r="120" fill="none" stroke="#00d4ff" stroke-width="2" opacity="0.4"/>
+  <path d="M340 120 L360 80 L380 110 L400 70 L420 110 L440 80 L460 120 L450 180 L400 220 L350 180 Z" fill="#1a1a2e" stroke="#00d4ff" stroke-width="3"/>
+  <circle cx="385" cy="140" r="8" fill="#00d4ff"/>
+  <circle cx="415" cy="140" r="8" fill="#00d4ff"/>
+  <text x="400" y="300" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="#00d4ff" text-anchor="middle">WOLFSEC</text>
+  <text x="400" y="340" font-family="Arial, sans-serif" font-size="18" fill="#88aaff" text-anchor="middle" letter-spacing="4">SUBLIMINAL WEAVER</text>
+</svg>
