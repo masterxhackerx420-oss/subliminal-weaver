@@ -1,6 +1,6 @@
 # 🐺 Subliminal Weaver
 
-![WolfSec Subliminal Weaver](assets/logo.png)
+![WolfSec Subliminal Weaver](assets/logo.svg)
 
 **WolfSec / DebianGang edition**
 
